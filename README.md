@@ -19,7 +19,8 @@ Siga estos pasos para instalar y ejecutar el proyecto:
 - Ejecutar con click derecho Run As>Spring Boot App
 
 ## Rutas:
-- http://localhost:3001/h2-ui -----Base de datos H2
+- http://localhost:3001/h2-ui **-----Base de datos H2**
+- **Diagrama de solución:** https://ibb.co/tXNxkdF
 - **POST** localhost:3001/users/registro
 - **POST** localhost:3001/users/login
 - **GET** localhost:3001/auth/listar
