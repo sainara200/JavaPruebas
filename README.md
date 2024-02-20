@@ -20,7 +20,7 @@ Siga estos pasos para instalar y ejecutar el proyecto:
 
 ## Rutas:
 - http://localhost:3001/h2-ui **-----Base de datos H2**
-- **Diagrama de solución:** https://ibb.co/tXNxkdF
+- **Diagrama de solución:** https://ibb.co/1vRM6mk
 - **POST** localhost:3001/users/registro
 - **POST** localhost:3001/users/login
 - **GET** localhost:3001/auth/listar
